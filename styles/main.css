@@ -48,7 +48,7 @@ section {
   background: url('https://images.unsplash.com/photo-1509563079913-60f4d004e74e') 50% 50% no-repeat;
   background-position: center;
   background-size: cover;
-  height: 100vh;
+  overflow-y: hidden;
 }
 
 #landing-page h1 {
