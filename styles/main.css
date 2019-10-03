@@ -64,6 +64,7 @@ section {
 
 #content {
   background: #fff;
+  z-index: 900;
 }
 
 p {
