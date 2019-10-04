@@ -41,7 +41,7 @@ nav li a {
 }
 
 section {
-  height: 100vh;
+  height: 750px;
 }
 
 #landing-page {
@@ -64,8 +64,6 @@ section {
 
 #content {
   background: #fff;
-  overflow-y: hidden;
-  z-index: 900;
 }
 
 p {
