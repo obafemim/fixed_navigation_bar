@@ -64,6 +64,7 @@ section {
 
 #content {
   background: #fff;
+  overflow-y: hidden;
   z-index: 900;
 }
 
