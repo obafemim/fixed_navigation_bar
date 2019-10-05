@@ -41,7 +41,8 @@ nav li a {
 }
 
 section {
-  height: 750px;
+  height: 800px;
+/*   height: 100vh; */
 }
 
 #landing-page {
